@@ -1,2 +1,1 @@
-- hi, i'm snowsnail
-- my personal site is https://snowsnail.org
+https://snowsnail.org
